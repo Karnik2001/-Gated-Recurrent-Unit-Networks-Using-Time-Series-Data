@@ -47,4 +47,20 @@ Matplotlib
 
 scikit-learn
 
-Jupyter Notebook
+## Dataset Information
+
+The notebook is designed to be flexible for use with various univariate or multivariate time series datasets. The preprocessing pipeline assumes a continuous time series structure. Users must adjust the data loading and formatting sections if employing alternative datasets.
+
+## Results and Performance
+
+The GRU model demonstrates significant capacity to capture temporal patterns and forecast future time steps accurately. Key results include:
+
+Comparative plots of actual versus predicted values.
+
+Error metrics evaluating forecast precision.
+
+Training history showing convergence trends.
+
+## License
+
+This project is made available under the MIT License.
