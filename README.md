@@ -64,3 +64,7 @@ Training history showing convergence trends.
 ## License
 
 This project is made available under the MIT License.
+
+## Citations
+
+https://www.geeksforgeeks.org/gated-recurrent-unit-networks/
