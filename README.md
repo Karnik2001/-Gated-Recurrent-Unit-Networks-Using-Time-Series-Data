@@ -1,7 +1,7 @@
 # Gated Recurrent Unit Networks for Time Series Forecasting
 
 ## Project Description
-This repository contains a Jupyter Notebook that presents the development and implementation of Gated Recurrent Unit (GRU) networks for time series forecasting. The project aims to explore the effectiveness of GRUs in modeling temporal dependencies within sequential data, and provides a comprehensive approach to data preparation, model construction, training, evaluation, and visualization.
+This repository contains a Google Colab Notebook that presents the development and implementation of Gated Recurrent Unit (GRU) networks for time series forecasting. The project aims to explore the effectiveness of GRUs in modeling temporal dependencies within sequential data, and provides a comprehensive approach to data preparation, model construction, training, evaluation, and visualization.
 
 ## Methodology
 
